@@ -4,6 +4,10 @@ layout: home
 toc: true
 ---
 
+# [BREAKING: San Franciso Protest](/sf)
+
+There is a protest in San Francisco on Sunday, 27 August, 2pm. We urge you to attend. Read more [here](/sf).
+
 # Call to action
 
 International coverage, protests, and other forms of public action are vital to make sure that the Singapore government stops ignoring the situation described in this site and trying to sweep the matter under the carpet. If they are unwilling or unable to confront the Christian far-right head-on, even at risk of the ruin of their own country and to the jeopardy of their own people, everyone who can recognize the real threat that fascism poses to the world must take a firm stand.
