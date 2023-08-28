@@ -4,9 +4,9 @@ layout: home
 toc: true
 ---
 
-# [BREAKING: San Franciso Protest](/sf)
+# [NEW: Letters for Singapore](/letters)
 
-There is a protest in San Francisco on Sunday, 27 August, 2pm. We urge you to attend. Read more [here](/sf).
+The protest is over, but we need to keep the momentum going. Help us make your voice heard by writing in to your nearest Singapore Consulate. Read more [here](/letters).
 
 # Call to action
 
