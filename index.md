@@ -36,7 +36,7 @@ The content of this site is long, as the history of this situation is both long 
 The [next section](#overview-of-the-situation) provides a brief overview of the situation. The [section after that](#operation-high-tide) explains Operation High Tide. These are the most important sections to read. After that, you can peruse 
 [Summary of key persons and events](#summary-of-key-persons-and-events) to fill in any gaps in your knowledge if you wish. It is in approximately chronological order, so content at the end of the section is the most recent and urgent.
 
-This site ends with an in-depth commentary on the socio-political aspects of Operation High Tide and Christofascism.
+This site ends with two in-depth commentaries on the socio-political and geopolitical aspects of Operation High Tide and Christofascism.
 
 # Overview of the situation
 **Mercury Jamie Alice (Mercury)** is a serial harasser and abuser. **Vickreman Harvey Chettiar (Harvey)** is an autistic Tamil woman who has suffered much alienation and systemic injustice in her life. Mercury and Harvey were friends from 2019 to 2021; the friendship ended when Harvey [failed to/refused to](https://twitter.com/Justice4Harvey/status/1675856323999825920) help Mercury with certain matters, including Mercury's [anthrax hoax](https://www.todayonline.com/singapore/youth-charged-false-anthrax-attack-bedok-1907586), and Mercury betrayed Harvey.
