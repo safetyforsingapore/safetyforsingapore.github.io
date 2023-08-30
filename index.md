@@ -324,8 +324,8 @@ There are vulnerabilities in Singapore, related to the Christian landscape in Si
 
 # References
 
-* Carissa Cheow's letter to the Attorney-General's Chambers on 27 March 2023 [[x](http://tinyurl.com/AGC-letter-on-MJA)] [[x](https://ipfs.thirdwebcdn.com/ipfs/QmY1Y3mjTKnjKi3G1DaL2Ge1sfjxcKXxVYzNPmXoPeiMaS/)]
-* Carissa Cheow's letter to the President of Singapore (Istana) on 1 May 2023 [[x](https://tinyurl.com/Istana-letter)] [[x](https://ipfs.thirdwebcdn.com/ipfs/QmRLtnEtCHK8tUtVHw5hKiH5KNru3Ypg4f8JPJyo5Gi2Gv/)]
+* Carissa Cheow's letter to the Attorney-General's Chambers on 27 March 2023 [[x](http://tinyurl.com/AGC-letter-on-MJA)] [[x](https://ipfs.io/ipfs/QmY1Y3mjTKnjKi3G1DaL2Ge1sfjxcKXxVYzNPmXoPeiMaS)]
+* Carissa Cheow's letter to the President of Singapore (Istana) on 1 May 2023 [[x](https://tinyurl.com/Istana-letter)] [[x](https://ipfs.io/ipfs/QmRLtnEtCHK8tUtVHw5hKiH5KNru3Ypg4f8JPJyo5Gi2Gv)]
 * Public Statement by the Thirring Institute for Applied Gravitational Research on 24 June 2023 [[x](https://thirring.org/public/Thirring_Public_Release.pdf)]
 * Microbundle of Evidence [[x](https://bit.ly/MJA-attacks-Families)]
 * Victims Of Malice site [[x](https://victimsofmalice.com/)] [[x](facebook.com/victimsofmalice)] [[x](https://twitter.com/victimsofmalice)] [[x](https://www.instagram.com/victimsofmalice/)]
