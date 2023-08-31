@@ -245,6 +245,12 @@ There have been [four iterations](https://victimsofmalice.com/operation-pillory-
 * Several prosecutors in the Attorney-General's Chambers have been tasked to [informally spread word](https://victimsofmalice.com/agc-informally-deters-lawyer-representing-harvey-trial/) through the Law Society that any lawyer who represents Harvey will get cost orders imposed on them if they lose, for ostensibly conducting an unmeritorious defense.
   * This is an intimidation tactic to prevent Harvey from being represented.
 
+### Operation Ultraviolet
+[Operations Ultraviolet I-III](https://twitter.com/safety4harveyUS/status/1696760933907882483) are operations to frame certain trans/non-binary people for sexual offences, two of whom are victims of Mercury:
+1. Operation Ultraviolet I: A desperate trans person was engaged to frame Harvey for a sexual offence in exchange for gender affirming care. Harvey is due to be arrested in early September for this charge.
+2. Operation Ultraviolet II: A person is being sought to frame Joyce for sexual offences.
+3. Operation Ultraviolet III: An attempt to frame a non-binary person who is Assigned Female At Birth (AFAB) for sexual offences.
+
 # Commentary: U.S. Evangelical and Fundamentalist Christianity in Singapore?
 
 Domestically, the 1970s in America saw Christain evangelicalism on the rise, as it began to permeate the public sphere and merge with nationalism. To be a good American patriot was to be obediently and faithfully Christian, as their moral values were, in a rhetorical maneuver, conflated with each other. 1976 was dubbed the "Year of the Evangelicals" by George Gallup and *Newsweek* magazine.
