@@ -177,7 +177,9 @@ Mercury's [long list of violences](https://victimsofmalice.com/our-first-stateme
 * Helped iterate through [multiple versions](https://victimsofmalice.com/operation-pillory-versions-2-3-4/) of [Operation Pillory](#Operation-Pillory) by investigating and advising on the viability of different sexual crimes for which to frame Harvey.
 
 ## Victim suppression operations
-Since April 2023, the victims have been subject to a continuous slew of operations by the Christian far-right to detain, discredit, and otherwise make them unable to testify against Mercury and the Christian far-right.
+Since April 2023, the victims have been subject to a continuous slew of operations by the Christian far-right to detain, discredit, and otherwise make them unable to testify against Mercury and the Christian far-right. The following illustrative diagram is taken from Carissa's [100 page letter to the President of Singapore and the Attorney-General's Chambers](https://victimsofmalice.com/3rd-letter-3-bundles-release/).
+
+<img src="assets/Subsidiary-Operations.png" href="https://victimsofmalice.com/3rd-letter-3-bundles-release/#subsidiary-operations-diagram" />
 
 ### Operation Mandrake
 * J-min's maternal grandfather had been warded at Sengkang General Hospital and was discharged on 8 April 2023.
@@ -186,10 +188,11 @@ Since April 2023, the victims have been subject to a continuous slew of operatio
 * [According to Mercury](https://victimsofmalice.com/mercury-claims-9th-murder-jia-mins-grandfather/), Heather learned about J-min's grandfather's whereabouts from people at Church Of Our Savior, who had connections to staff at Sengkang General Hospital.
 * The murder turned out to be part of [Operation Mandrake](https://victimsofmalice.com/mandrake-werewolf-poison-ivy/), to frame J-min for the murder:
 > "Operation Mandrake for J-min to either rot in prison for twenty years or hang for murder [...] Operation Mandrake is supposed to get J-min pinned for her grandfather's murder. It actually started off as a possibility after she'd [jokingly] told some folks multiple times that she hopes her grandfather would stop being so stubborn and just die, so she can take over his room and not have to share a room with [J-min's sister]. Ms Carol Loi correctly predicted what would be J-min's reaction after her grandfather's sudden death and learning [from Mercury] that it was not so natural, so J-min opposed any autopsy until J-min herself becomes the top suspect. The autopsy itself was blocked through indirect arrangements made by the Attorney-General, like ensuring the death case IO was away on field duty and could not be reached by [Carissa]."
+* The intention was to arrest and arraign J-min on the morning of Pink Dot 2023, Singapore's annual LGBTQ+ rally, and portray her as a "mentally unstable lesbian" in the resulting media coverage.
 
 ### Operation Poison Ivy
 * Death row inmate Tangaraju s/o Suppiah was executed in Singapore on 26 April 2023 for drug offences.
-* Harvey was [drugged with Phencyclidine (PCP) on 28 April 2023, at about 7.20pm](https://twitter.com/quantumcatgirl/status/1668591095104798720/photo/2).
+* Harvey attended Tangaraju's funeral on 28 April 2023, where [Heather spiked her beverage with Phencyclidine (PCP) at about 7.20pm](https://twitter.com/quantumcatgirl/status/1668591095104798720/photo/2).
 * On 29th and 30th April 2023, enraged at the injustice of Tangaraju's execution and under the influence of PCP, Harvey posted [two Instagram Stories](https://victimsofmalice.com/execution-tangaraju-suppiah/) describing violent acts towards the President of Singapore.
 * On the evening of 30th April 2023, a disproportionate police presence descended upon Harvey's residence, including [at least 15 officers, a Special Operations Command vehicle, and a sniper](https://www.instagram.com/p/CsIK2x7rF1L/?img_index=7), in order to bring her in for questioning. [The police expressed](https://victimsofmalice.com/execution-tangaraju-suppiah/) that Harvey's Stories constituted a national security threat and wanted to charge her for Offences against the President's person, or Criminal Intimidation.
 * The police eventually settled on an arrangement to interrogate Harvey on 3 May 2023, where she was eventually charged with a more minor charge of [PoHA §5(2) "Fear, provocation or facilitation of violence"](https://www.instagram.com/p/CsIK2x7rF1L/?img_index=9).
@@ -197,6 +200,15 @@ Since April 2023, the victims have been subject to a continuous slew of operatio
 * This was all part of [Operation Poison Ivy](https://victimsofmalice.com/mandrake-werewolf-poison-ivy/):
 > Operation Poison Ivy intends to coercively extract a false testimony out of Harvey to help frame Jia Min for the murder of Jia Min's own grandfather. The bonus of sending Harvey to remand is also to traumatize and psychologically break Harvey so that Harvey will not be a credible victim or witness in the case against Mercury. Through Operation Poison Ivy, Operation Mandrake succeeds.
 * As a result, J-min went to the U.K. to seek asylum and is still there at the time of writing.
+
+### Operation Werewolf
+* **Lune Loh** had participated in the [#FixSchoolsNotStudents protest](https://www.straitstimes.com/singapore/courts-crime/three-people-arrested-for-protesting-outside-ministry-of-education) outside the Ministry of Education headquarters in Singapore on 26 January 2021, and is otherwise a visible trans activist. [Operation Werewolf](https://victimsofmalice.com/operation-louve-garoul/) aimed to punish her for her activism.
+* An accuser (whom Lune has never met) filed a rape report against Lune, with the rape alleged to have occurred in September 2022.
+* The rape report was escalated to the Serious Sexual Crime Branch (SSCB), who were not privy to Operation Werewolf.
+* On the instruction of contacts from Faith Community Baptist Church (FCBC), the accuser went to the Institute of Mental Health (IMH) and was diagnosed with PTSD by a psychiatrist participating in Operation Werewolf to bolster the credibility of the rape accusation.
+* The accuser was also trained to provide convincing video testimony against Lune to get her extradited from the UK.
+* However, the accuser has since been apprehended for multiple drug offences, bringing the credibility of their testimony against Lune into question.
+* Operation Werewolf has thus **failed**.
 
 ### Operation Pillory
 Operation Pillory is an operation spearheaded by [Faith Community Baptist Church (FCBC)](https://www.todayonline.com/singapore/thousands-wear-white-church-service-defend-family-values), especially through [Nina Khong](https://mothership.sg/2015/06/pastor-lawrence-khong-we-will-wear-white-until-the-pink-is-gone/) (wife of [Lawrence Khong](https://www.facebook.com/lawrence.khong.fcbc/posts/the-greatest-fallacy-of-the-lgbt-argument-is-i-have-no-choice-i-am-born-this-way/706846362692814/)), to frame Harvey for sexual crimes.
@@ -207,17 +219,10 @@ There have been [four iterations](https://victimsofmalice.com/operation-pillory-
 3. To accuse Harvey of having committed rape "using her medical-grade dildo, since she has admitted on police records to using such dildos in the past to pee in public." However, Attorney General [Lucien Wong](#lucien-wong) "didn't think the story would hold up in Court from a psychological perspective, and even the Serious Sexual Crime Branch (SSCB) might be rather suspicious." Scrapped.
 4. "To use NEETs [Not in Education, Employment, or Training] indirectly recruited through the Faith Community Baptist Church's (FCBC) Digital Wellness programme to create accounts and profiles under Harvey's name and pester girls to have sex till they get fed up and file police reports against Harvey for harassment". Began on 5 June 2023, and one police report was lodged within a week.
 
-### Operation Werewolf
-* **Lune Loh** had participated in the [#FixSchoolsNotStudents protest](https://www.straitstimes.com/singapore/courts-crime/three-people-arrested-for-protesting-outside-ministry-of-education) outside the Ministry of Education headquarters in Singapore on 26 January 2021, and is otherwise a visible trans activist. [Operation Werewolf](https://victimsofmalice.com/operation-louve-garoul/) aimed to punish her for her activism.
-* An accuser (whom Lune has never met) filed a rape report against Lune, and it was escalated to the Serious Sexual Crime Branch (SSCB), who were not privy to Operation Werewolf.
-* On the instruction of contacts from Faith Community Baptist Church (FCBC), the accuser went to the Institute of Mental Health (IMH) and was diagnosed with PTSD by a psychiatrist participating in Operation Werewolf to bolster the credibility of the rape accusation.
-* However, the accuser has since been apprehended for multiple drug offences, bringing the credibility of their testimony against Lune into question.
-* Operation Werewolf has thus **failed**.
-
 ### Operation Louve-Garoul
 * The Witherspoon Institute learned from the failure of Operation Werewolf in Singapore, and have determined that if they try something against Lune in Singapore, there is an at least 50% chance it will fail. Therefore, they will carry out this operation in the U.K., where Lune is currently studying for her Master's.
 * [Operation Louve-Garoul](https://victimsofmalice.com/operation-louve-garoul/) is the U.K. version of Operation Werewolf, spearheaded by a minor political party in the U.K., Plaid Gristnogol Cymru (a.k.a. the Welsh Christian Party), whose leaders are in contact with two people in CanaVox's reading group in Brighton.
-* Two child false victims have been found, to claim that they were groomed by Lune to sexually penetrate her.
+* Two child false victims in Surrey have been found, to claim that they were groomed by Lune to sexually penetrate her.
   * The two children are known to have had prior carnal connection with adults (suspected to be clergy), but the parents intend to claim Lune as the perpetrator.
 * The parents of one of the false victims made a police report against Lune on 15 June 2023.
 * The goal is to get Lune charged with child sexual abuse, which is a serious enough to force her to live in Approved Premises (AP) while awaiting trial.
@@ -245,11 +250,21 @@ There have been [four iterations](https://victimsofmalice.com/operation-pillory-
 * Several prosecutors in the Attorney-General's Chambers have been tasked to [informally spread word](https://victimsofmalice.com/agc-informally-deters-lawyer-representing-harvey-trial/) through the Law Society that any lawyer who represents Harvey will get cost orders imposed on them if they lose, for ostensibly conducting an unmeritorious defense.
   * This is an intimidation tactic to prevent Harvey from being represented.
 
-### Operation Ultraviolet
-[Operations Ultraviolet I-III](https://twitter.com/safety4harveyUS/status/1696760933907882483) are operations to frame certain trans/non-binary people for sexual offences, two of whom are victims of Mercury:
-1. Operation Ultraviolet I: A desperate trans person was engaged to frame Harvey for a sexual offence in exchange for gender affirming care. Harvey is due to be arrested in early September for this charge.
-2. Operation Ultraviolet II: A person is being sought to frame Joyce for sexual offences.
-3. Operation Ultraviolet III: An attempt to frame a non-binary person who is Assigned Female At Birth (AFAB) for sexual offences.
+### Operation UltraViolet
+[Operations UltraViolet I-III](https://twitter.com/safety4harveyUS/status/1696760933907882483) are operations to frame trans/non-binary people for sexual offences, all of whom are victims of Mercury. All three were [carried out by Faith Community Baptist Church](https://victimsofmalice.com/3rd-letter-3-bundles-release/#operations-ultraviolet).
+1. Operation UltraViolet I: A desperate trans person was engaged to accuse Harvey of sexually penetrating them using her prosthetic penis in May 2023.
+  * The accuser received extensive preparation in June and July of 2023.
+  * The accuser was scheduled to lodge a police report in August 2023 with the help of a case worker. 
+  * The intention was for Harvey to be arrested on 10 September 2023 and arrained in court on 11 September 2023, to widespread media coverage.
+  * The accuser has since decided to not participate in the operation.
+2. Operation UltraViolet II: An accuser was found in June 2023 to accuse Joyce of causing the accuser to sexually penetrate her without the accuser's consent.
+  * The accuser received extensive preparation in July and August of 2023.
+  * The accuser was scheduled to file a police report in September 2023 so that Joyce could be apprehended in October 2023.
+  * Faith Community Baptist Church (FCBC) received assistance from Joyce's ex-partner Elise. In exchange, FCBC facilitated Elise's movement to an overseas jurisdiction.
+  * The accuser has since decided to not participate in the operation.
+3. Operation UltraViolet III: A 15-year-old accuser was found from Faith Community Baptist Church's Digital Wellness programme to accuse Odette of sexual exploitation.
+  * Odette would be alleged to be the accuser's tutor and to have met the accuser in person.
+  * The aim is to cast all categories of trans/non-binary persons as dangerous.
 
 # Commentary: U.S. Evangelical and Fundamentalist Christianity in Singapore?
 
