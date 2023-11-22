@@ -284,6 +284,17 @@ There have been [four iterations](https://victimsofmalice.com/operation-pillory-
 * Harvey refused to cooperate in providing false testimony. ISD left Harvey to deal directly with law enforcement regarding the charge for the bomb hoax.
 * Harvey was remanded for a week beginning on the 27th. She was subjected to [inhumane conditions](https://victimsofmalice.com/operation-providence/#harvey-remanded-police-custody), with additional [beatings and sexual torture on ISD's instruction](https://victimsofmalice.com/operation-providence/#harvey-physical-sexual-torture-isd).
 
+
+### Operation Anne Boleyn
+As background, Singapore's **Corrupt Practices Investigation Bureau (CPIB)** is responsible for the investigation and prevention of corruption in Singapore. The Director of CPIB reports to the Prime Minister of Singapore. If the Prime Minister does not give concurrence for CPIB to investigate a corruption complaint, the President may override the Prime Minister and give the required concurrence.
+
+* The CPIB Director has been "educated on his place in the food chain", and Prime Minister **Lee Hsien Loong** will not give permission to the CPIB to investigate any of the victims' complaints.
+  * Another of the complaints the Prime Minister intends to block, which does not come from the victims, is the [anonymous whistleblower complaint](https://textdoc.co/FGh6VD3R4ZkBrOXQ) about [**Operation Ink Tiger**](#operation-ink-tiger).
+* If President **Tharman Shanmugaratnam** chooses to override the Prime Minister and give concurrence to the CPIB to investigate the complaints, the **Internal Security Department (ISD)** has [**Operation Anne Boleyn**](https://bafkreibim65tm5xreievmqg3mes3wfsjztxhsuxxrihvvxmmia2dwr5m2i.ipfs.w3s.link/) prepared as a contingency to kill President Tharman and replace him with Attorney-General [**Lucien Wong**](#lucien-wong).
+  * Lucien Wong would then be replaced as Attorney-General by Lee Hsien Loong's current lawyer, **Davinder Singh**.
+* Lucien Wong would run in a Presidential by-election against 2023 Presidential Election candidate Ng Kok Song, who would be encouraged by plants in his support base to run again.
+* Second Minister for Finance **Indranee Rajah** (leader of [Operation Ink Tiger](#operation-ink-tiger) after Tan Chuan-Jin's resignation) is aware of Operation Anne Boleyn. She has advised ISD that it would be too politically costly to take political/procedural maneuvers to ensure that Lucien Wong runs uncontested.
+
 # Commentary: U.S. Evangelical and Fundamentalist Christianity in Singapore?
 
 Domestically, the 1970s in America saw Christain evangelicalism on the rise, as it began to permeate the public sphere and merge with nationalism. To be a good American patriot was to be obediently and faithfully Christian, as their moral values were, in a rhetorical maneuver, conflated with each other. 1976 was dubbed the "Year of the Evangelicals" by George Gallup and *Newsweek* magazine.
