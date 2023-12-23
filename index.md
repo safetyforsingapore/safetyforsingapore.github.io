@@ -295,6 +295,24 @@ As background, Singapore's **Corrupt Practices Investigation Bureau (CPIB)** is 
 * Lucien Wong would run in a Presidential by-election against 2023 Presidential Election candidate Ng Kok Song, who would be encouraged by plants in his support base to run again.
 * Second Minister for Finance **Indranee Rajah** (leader of [Operation Ink Tiger](#operation-ink-tiger) after Tan Chuan-Jin's resignation) is aware of Operation Anne Boleyn. She has advised ISD that it would be too politically costly to take political/procedural maneuvers to ensure that Lucien Wong runs uncontested.
 
+### Operation Angel Dust
+[Operation Angel Dust](https://victimsofmalice.com/operations-angel-dust-and-samael/#operation-angel-dust) is an operation by Faith Community Baptist Church (FCBC). It involves spiking/drugging several targets with substances to incapacitate them or cause them to act up, with a different strategic objective for each target. The currently known targets are as follows:
+
+* **Harvey** is the main target.
+* **Zaia** is believed to be an important witness of some kind, who needs to be incapacitated or discredited.
+* **Tobias Keh** is targeted for drugging as a precursor to the next operation: [Operation Samael](#operation-samael).
+
+Harvey's drink had indeed been laced "in the early hours of 19 November [2023]" with "1½ what was used on 28 April 2023", in order to cause her to commit offences under the influence. Gurther attempts are likely.
+
+### Operation Samael
+[Operation Samael](https://victimsofmalice.com/operations-angel-dust-and-samael/#operation-samael) is an operation by Faith Community Baptist Church (FCBC) to frame Tobias Keh for impersonating Mercury.
+* The operation involves lodging an online police report of a Soman threat under Mercury's name.
+* The report and its filing would be made to look like the work of Tobias attempting to impersonate Mercury.
+* Tobias would be discovered to have filed the report, and to have done so under the influence of substances from Operation Angel Dust.
+* Where Mercury had impersonated many people and claims that those instances were in turn impersonation by others, Tobias would then become a viable suspect for being behind said instances.
+* This would also introduce the substantive possibility that Mercury was also impersonated by others.
+* To move towards a viable plan of execution for the Soman hoax, FCBC operatives have been iteratively workshopping execution scenarios with youths enrolled in their Digital Wellness programme, under the guise of "developing their critical thinking".
+
 # Commentary: U.S. Evangelical and Fundamentalist Christianity in Singapore?
 
 Domestically, the 1970s in America saw Christain evangelicalism on the rise, as it began to permeate the public sphere and merge with nationalism. To be a good American patriot was to be obediently and faithfully Christian, as their moral values were, in a rhetorical maneuver, conflated with each other. 1976 was dubbed the "Year of the Evangelicals" by George Gallup and *Newsweek* magazine.
