@@ -1,0 +1,13 @@
+title: Safety For Singapore
+description: A summary site for Operation High Tide and related people, including Mercury Jamie Alice, Vickreman Harvey Chettiar, Mercury's victims, and government collaborators.
+theme: just-the-docs
+color_scheme: safetyforsingapore
+search_enabled: false
+
+url: https://safetyforsingapore.github.io
+
+plugins:
+ - jekyll-toc
+
+#aux_links:
+#  Template Repository: https://github.com/just-the-docs/just-the-docs-template

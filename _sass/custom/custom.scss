@@ -1,0 +1,33 @@
+.site-nav {
+//   display: none;
+
+//   &.nav-open {
+//     display: block;
+//   }
+
+  @include mq(md) {
+    // display: block;
+    padding-top: $sp-4;
+    // padding-bottom: $gutter-spacing-sm;
+    // overflow-y: auto;
+    // flex: 1 1 auto;
+  }
+}
+
+.header-nav {
+  @include container;
+  min-height: $header-height;
+  margin-bottom: -$gutter-spacing-sm;
+  font-size: 1.5rem;
+  border-bottom: $border $border-color;
+  display: flex;
+  align-items: center;
+  ul{
+    margin: 0;
+    li {
+      display: inline;
+      // margin: 0px 40px 0px 0px;
+      margin-right: 40px;
+    }
+  }
+}
